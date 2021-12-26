@@ -5,7 +5,7 @@ description = ""
 authors = ["Andrew de Quincey <adq@lidskialf.net>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3"
 svg-to-gcode = "^1.5.4"
 pyserial = "^3.5"
 
